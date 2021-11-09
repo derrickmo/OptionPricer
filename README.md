@@ -1,6 +1,6 @@
 # OptionPricer
 
-An option pricer I built from scratch in 2019!
+An option pricer I built from scratch!
 
 STL Library is required. A sample output is provided below.
 
